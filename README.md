@@ -25,13 +25,6 @@ This project implements multi-modal steganography, which is a technique of hidin
 
 ### Text Steganography
 - Text Steganography is a technique of hiding data in text files.   
-<hr/>
-
-### Video Steganography
-- Video Steganography is a technique of hiding data in video files.
-- The data is hidden in such a way that it is not visible to the human eye.
-- Lossless video formats like AVI, MOV, and MKV are used for video steganography.
-
 
 
 
